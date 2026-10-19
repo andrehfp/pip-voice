@@ -1,0 +1,180 @@
+{
+  "note": "Hashes of reviewed source bytes before standalone adaptations; no source history imported",
+  "files": [
+    {
+      "path": "mac/Sources/Pip/Dictation.swift",
+      "action": "copied",
+      "sha256": "b78d1f593d384a4597f2a0e672e7a8760adcdd1cf020c2ec0adfb53e06ac792f"
+    },
+    {
+      "path": "mac/Sources/Pip/AudioSession.swift",
+      "action": "copied",
+      "sha256": "898a02e6aa777173d03d2fab7ec7e79b43683edb38262a2371188a101b7a3fba"
+    },
+    {
+      "path": "mac/Sources/Pip/AudioInputChannel.swift",
+      "action": "copied",
+      "sha256": "2775aad3c61ba2b8dfd393a1cd970560427053538044d3c5cebae8aeb5a12e72"
+    },
+    {
+      "path": "mac/Sources/Pip/AudioConfigurationObserver.swift",
+      "action": "copied",
+      "sha256": "af2f9362eea2dbd7d3b622c26ec8e78ebcc7b35fb331c6204c04c482f6a6e07d"
+    },
+    {
+      "path": "mac/Sources/Pip/DictationLifetime.swift",
+      "action": "copied",
+      "sha256": "a83ea69987fafab8585b306c2747587204e65a368dab5720fb00212eafc295ac"
+    },
+    {
+      "path": "mac/Sources/Pip/HotKeys.swift",
+      "action": "copied",
+      "sha256": "22efc42a68adc636a4aa065993fe95ba9cef6cd118393394341ab42cc2b5d22a"
+    },
+    {
+      "path": "mac/Sources/Pip/ModifierTrigger.swift",
+      "action": "copied",
+      "sha256": "2e9de59be94cd432a74bfdb41444aba1324e218c477da7cb9d3841182d2b4ea7"
+    },
+    {
+      "path": "mac/Sources/Pip/Shortcuts.swift",
+      "action": "copied",
+      "sha256": "82786b001974f7713bf98eb37cf38dec4bbcd447d6d1feb28ee9908e89cb42ce"
+    },
+    {
+      "path": "mac/Sources/Pip/ShortcutRecorder.swift",
+      "action": "copied",
+      "sha256": "4a1f1885eb18e19cca42c751046d54130ae0a7dc2e53fcbc59c7c376f60be6e8"
+    },
+    {
+      "path": "mac/Sources/Pip/Paster.swift",
+      "action": "copied",
+      "sha256": "9db92ee3c87c81f5463fc4c8a865b8fb1e0d20324e891e6d7bbc88e72e13cbf8"
+    },
+    {
+      "path": "mac/Sources/Pip/ReplacementSafety.swift",
+      "action": "copied",
+      "sha256": "7801f9efe6e7ee00f4478796e43fbf17f12ed7851eff739daaad44ecffb7413a"
+    },
+    {
+      "path": "mac/Sources/Pip/ClipboardTransaction.swift",
+      "action": "copied",
+      "sha256": "43d041440374f1b119961718e8bc07454b2e0d5334119e13c3741734b3fba733"
+    },
+    {
+      "path": "mac/Sources/Pip/AppKitClipboardBoard.swift",
+      "action": "copied",
+      "sha256": "0b873a01b8d055af04d2ab55ff4b4787cb7b23beb67ace4435e1037d1d3caef3"
+    },
+    {
+      "path": "mac/Sources/Pip/ButtonAction.swift",
+      "action": "copied",
+      "sha256": "6726751351f4fd9e4148030f1972291e3588ec4f487d4ef74da4fc2958e0597d"
+    },
+    {
+      "path": "mac/Sources/Pip/PresentationLifetime.swift",
+      "action": "copied",
+      "sha256": "dc1e7cd6ead4cd41c7f67e9e07a21097d7c859a228193490e76c576bb66a0070"
+    },
+    {
+      "path": "mac/Sources/Pip/RamsPalette.swift",
+      "action": "copied",
+      "sha256": "51a2b816b763b02662eabd472f15d5e9dc63f18c6cb8cbcec24d0e9a1dd94703"
+    },
+    {
+      "path": "mac/Sources/Pip/DotMatrix.swift",
+      "action": "copied",
+      "sha256": "d9fa457250ca72638e71db01782cf52ea8845a2f6bf8f6beb999cfcaa2cd88e6"
+    },
+    {
+      "path": "mac/Tests/AudioRegression/main.swift",
+      "action": "copied",
+      "sha256": "abba6adab1b2499d44a372a07f320ea70ecc95c8939f2baf80a576d2a1ded396"
+    },
+    {
+      "path": "mac/Tests/ClipboardRegression/Fakes.swift",
+      "action": "copied",
+      "sha256": "d5f592117460bae776526c6727354c3c00cb3ca0ab6877b3f620224c731b8a43"
+    },
+    {
+      "path": "mac/Tests/ClipboardRegression/main.swift",
+      "action": "copied",
+      "sha256": "c49edf2eb7e9333cb0603fbd1347bc7d7b465fdba0549483e330320acdba432c"
+    },
+    {
+      "path": "mac/Tests/PasterDeliveryRegression/main.swift",
+      "action": "copied",
+      "sha256": "3f89de6d1549a3c47ebfa66357e70690833446db9824c146d2c7f1da81feb34b"
+    },
+    {
+      "path": "mac/Tests/KeyboardRegression/main.swift",
+      "action": "copied",
+      "sha256": "6cc816004b70e783c678984aba0d3a050f6f32bd5809fe01f510489de9a0217d"
+    },
+    {
+      "path": "mac/Tests/run-audio-regressions.sh",
+      "action": "copied",
+      "sha256": "34fce60c0d4256c5d236567668ed61916f114ddee285514c1d9c030cc6faa141"
+    },
+    {
+      "path": "mac/Tests/run-clipboard-regressions.sh",
+      "action": "copied",
+      "sha256": "ef7acb84fa84ea5ba1d51248ab5cf018038b53c30064e0cb5d4609069ccfab5e"
+    },
+    {
+      "path": "mac/Tests/run-keyboard-regressions.sh",
+      "action": "copied",
+      "sha256": "2ee354b1a05d8dc0077562d7a2872060a7e8fe99cccdaff9d7f5a85d1073e2db"
+    },
+    {
+      "path": "mac/Sources/Pip/RamsLight.swift",
+      "action": "reference-only",
+      "sha256": "c7bef10711a15095fd47f58e7ad1a147c2f923aad4eeda38ae82a67bfb6311ee"
+    },
+    {
+      "path": "mac/Sources/Pip/AppDelegate.swift",
+      "action": "reference-only",
+      "sha256": "432be4698f721df5593e52276257e16e3f13225fcea6c91f3ddd6aacdaf9f697"
+    },
+    {
+      "path": "mac/Sources/Pip/CursorCompanion.swift",
+      "action": "reference-only",
+      "sha256": "77f2030b7bfce8a656a4c0c93ad88ae540eafb1599edb115df69e6e516cdf6a8"
+    },
+    {
+      "path": "mac/Sources/Pip/SettingsWindow.swift",
+      "action": "reference-only",
+      "sha256": "4c863b51cc863ec287b3ce1463077ac809403860bf0a670196af9d19fe7a51b9"
+    },
+    {
+      "path": "mac/Sources/Pip/Vocabulary.swift",
+      "action": "reference-only",
+      "sha256": "b07afc870109aeaf89df8597a45f8bf40dee177468ad83e62f4a62062fb891b1"
+    },
+    {
+      "path": "mac/Sources/Pip/main.swift",
+      "action": "reference-only",
+      "sha256": "7da2d7c36016ab1c2ea0083cff093d3eb31020be32048ff09c5118d82e61c6a4"
+    },
+    {
+      "path": "mac/Package.swift",
+      "action": "reference-only",
+      "sha256": "00fa4ac794048e2b3f771d57c342d595251735b6e02b8c8a1247eb038138ba83"
+    },
+    {
+      "path": "mac/Resources/Info.plist",
+      "action": "reference-only",
+      "sha256": "53588fc344ff5920a31207fddfdf810b1cd3ed7d7bff84d5099dacf8277b099c"
+    },
+    {
+      "path": "mac/build.sh",
+      "action": "reference-only",
+      "sha256": "e48a00f5937669787b7ae7c7a95dd80255585c947be61d39ad55459f7801479c"
+    },
+    {
+      "path": "mac/make-icon.swift",
+      "action": "reference-only",
+      "sha256": "f59a6f98c51d309b1dc6639ec4f17ef3c98ccb09bfe54ed5a87d93ccc9e09b1e"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+.DS_Store
+mac/.build/
+mac/build/
+*.log
+.env*
+*.key
+*.p12
+*.p8
+*.mobileprovision
+
+mac/.swiftpm/
